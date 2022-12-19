@@ -8,10 +8,13 @@ nav {
   justify-content: space-between;
   align-items: center;
 }
-nav h1 {
+.logo {
   font-size: 29px;
   font-family: 'unbounded';
+  text-decoration: none;
+  color: black;
 }
+
 nav ul {
   display: flex;
   gap: 40px;
